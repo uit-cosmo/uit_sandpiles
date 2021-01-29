@@ -1,0 +1,30 @@
+__pycache__
+.vscode
+trash
+proclogs
+media
+.idea
+cmake-build-debug
+env
+.ipynb_checkpoints
+*.out
+*.cbp
+*.a
+build
+
+
+# Cmake stuff
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# Google
+test/gtest/
